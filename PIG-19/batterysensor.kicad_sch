@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4b10a214-ff51-42cc-bbc0-ba473a543d98")
+	(paper "A4")
+	(lib_symbols)
+	(text "MAX17043"
+		(exclude_from_sim no)
+		(at 125.222 76.454 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4e8009f4-afba-4a94-bf1d-ca3045ea70ef")
+	)
+)
